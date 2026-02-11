@@ -1,4 +1,4 @@
-name: pygame_env
+name: snake_rl
 channels:
   - defaults
 dependencies:
